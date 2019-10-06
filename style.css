@@ -24,12 +24,11 @@ figcaption {
   text-align: center;
   font-size: 80%;
 }
-#featured-property{
+
+#featured-property p {
   display: block;
   margin: auto;
   width: 800px;
-}
-#featured-property p {
   text-align: center;
 }
 #details {
