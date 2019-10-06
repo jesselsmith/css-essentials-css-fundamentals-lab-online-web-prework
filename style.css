@@ -24,7 +24,10 @@ figcaption {
   text-align: center;
   font-size: 80%;
 }
-
+#featured-property{
+  display: block;
+  margin: auto;
+}
 #featured-property p {
   
   text-align: center;
